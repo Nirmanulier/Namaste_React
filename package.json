@@ -1,0 +1,33 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "learning React by akshay",
+  "keywords": [
+    "react",
+    "namaste",
+    "react"
+  ],
+  "homepage": "https://github.com/Nirmanulier/Namaste_React#readme",
+  "bugs": {
+    "url": "https://github.com/Nirmanulier/Namaste_React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nirmanulier/Namaste_React.git"
+  },
+  "license": "ISC",
+  "author": "Nirman",
+  "type": "commonjs",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
+}
